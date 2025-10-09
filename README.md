@@ -1,5 +1,5 @@
 <center>
-<h1> Project is Condected BY - </h1>
+<h1> Project is Conducted BY - </h1>
 
 <font size="25">
 <h1> 
